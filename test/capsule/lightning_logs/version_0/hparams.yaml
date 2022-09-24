@@ -1,0 +1,12 @@
+batch_size: 32
+category: capsule
+coreset_sampling_ratio: 0.01
+dataset_path: ./dataset
+input_size: 224
+load_size: 256
+n_neighbors: 9
+num_epochs: 1
+phase: test
+project_root_path: ./test
+save_anomaly_map: true
+save_src_code: true
