@@ -8,6 +8,6 @@ Improvement on Image Anomaly Detection Focusing on Background Anomaly
 
 Video: https://www.youtube.com/watch?v=jsWOdp7f2f4
 
-Report: https://github.com/KAISTChangmin/CS376_ML_2022-1/blob/main/Automatic_Chord_Extractor_and_AI_Composer_with_Neural_Network.pdf
+Report: https://github.com/KAISTChangmin/PatchCore_anomaly_detection/blob/main/Improvement%20on%20Image%20Anomaly%20Detection%20Focusing%20on%20Background%20Anomaly.pdf
 
 [ Modified from https://github.com/hcw-00/PatchCore_anomaly_detection ]
