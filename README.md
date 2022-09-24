@@ -1,7 +1,7 @@
 # PatchCore anomaly detection
 Unofficial implementation of PatchCore(new SOTA) anomaly detection model
 
-<Modified from https://github.com/hcw-00/PatchCore_anomaly_detection>
+/// Modified from https://github.com/hcw-00/PatchCore_anomaly_detection
 
 
 Original Paper : 
