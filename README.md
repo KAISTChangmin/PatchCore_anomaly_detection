@@ -1,6 +1,8 @@
 # PatchCore anomaly detection
 Unofficial implementation of PatchCore(new SOTA) anomaly detection model
 
+<Modified from https://github.com/hcw-00/PatchCore_anomaly_detection>
+
 
 Original Paper : 
 Towards Total Recall in Industrial Anomaly Detection (Jun 2021)  
